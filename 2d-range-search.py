@@ -136,7 +136,7 @@ def print2D(root) :
 if __name__ == '__main__':
 	rangeX = (0, 100)
 	rangeY = (0, 100)
-	qty = 7
+	qty = 100
 	randPoints = []
 	excluded = set()
 	i = 0
